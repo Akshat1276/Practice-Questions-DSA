@@ -1,0 +1,37 @@
+# Compiled binaries and object files
+*.o
+*.obj
+*.out
+*.exe
+*.app
+a.out
+
+# Build directories
+build/
+bin/
+out/
+
+# CMake artifacts
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE and editor config
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.code-workspace
+.DS_Store
+
+# Temp files
+*.tmp
+*.log
+*.swp
+*~
+
+# Valgrind output
+vgcore.*
